@@ -6,8 +6,8 @@ through each step as thoroughly as possible.
 
 My portion of the project consisted of designing a new interface for the users to input data into the database. I attempted
 to make a self contained app that interfaces with microsoft azure login system and modified the data on the server side via
-commands from the client. It was my intention to put more into the project but in the end we were left with little time and
-had a small demo available to the client (our teacher). In the end it was a success and we received an A grade on the project.
+commands from the client. Given the tight timeframe we put together a small demo so it was available to the client (our teacher).
+In the end it was a success and we received an A on the project.
 
-Included are some of my mockup designs and pdfs illustrating the though into managing the program. I also did some backend setup
-with the azure server to get it linked to the program but it was incomplete in the end.
+Included are some of my mockup designs and pdfs illustrating my thought process into managing the information. I also did some backend setup
+with the azure server to get it linked to the program.
